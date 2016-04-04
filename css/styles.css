@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: #FEFFEF;
+  font-family: cursive;
+}
+
+header {
+  font-size: 25px;
+  margin: 10px;
+}
+
+.content {
+  margin: 10px;
+}
+
+.text-input {
+  width: 20em;
+  border-radius: 5px;
+  padding: 1em;
+  margin-right: 2em;
+}
+
+.play {
+  font-size: 1em;
+  color: white;
+  padding: 1em;
+  background-color: blue;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.clear {
+  font-size: 1em;
+  color: white;
+  padding: 1em;
+  background-color: royalblue;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: 1em;
+}
